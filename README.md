@@ -1,1 +1,3 @@
-# learninGO
+# ## learninGO
+
+* `go run hello.go`
