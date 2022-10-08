@@ -1,4 +1,4 @@
-// go run basics/constant.go 
+// go run basics/constants.go
 
 package main
 
