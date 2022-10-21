@@ -1,4 +1,4 @@
-// go run basics/multi_return.go
+// go run basics/variadic_func.go
 
 package main
 
