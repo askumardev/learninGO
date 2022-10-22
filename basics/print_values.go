@@ -1,4 +1,4 @@
-// go run print_values.go
+// go run basics/print_values.go
 
 package main
 

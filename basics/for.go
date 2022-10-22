@@ -1,4 +1,4 @@
-//go run basic/for.go
+//go run basics/for.go
 
 package main
 
