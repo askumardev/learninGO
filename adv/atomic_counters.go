@@ -1,4 +1,4 @@
-// go run adv/atomic_conters.go
+// go run adv/atomic_counters.go
 
 package main
 
