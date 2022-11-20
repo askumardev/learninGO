@@ -1,4 +1,4 @@
-// go build cmd_line_flags.go
+// go build adv/cmd_line_flags.go
 // ./cmd_line_flags -word=opt -numb=7 -fork -svar=flag
 // ./cmd_line_flags -word=opt
 // ./cmd_line_flags -word=opt a1 a2 a3
